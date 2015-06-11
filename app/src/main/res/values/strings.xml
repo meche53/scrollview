@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">scroll</string>
+
+    <string name="hello_world">La popular aplicación de mensajería WhatsApp lanzó una serie de mejoras en su última actualización, en la versión 2.12.3, misma que incorpora nuevos detalles e información sobre el uso del sistema de almacenamiento de datos y archivos. Esta actualización está disponible para el sistema operativo iOS.
+        En esta nueva actualización, se corrigieron algunos problemas y fallos técnicos, siendo lo más destacable el almacenamiento de datos.
+        Como se menciona en el portal ABC.es, desde Ajustes/Cuenta se puede acceder a una nueva pestaña, llamada "Uso de Almacenamiento", en el que se informa de los mensajes acumulados por todos los chats abiertos, así como el espacio ocupado.
+        Con ello, es posible consultar desde cada ventana de chat, los detalles desglosados de mensajes, imágenes, videos, audio, ubicaciones y número de contactos, todo ello, relativo al consumo de datos de todas las operaciones y transferencias de documentos que realizamos.</string>
+    <string name="action_settings">Settings</string>
+</resources>
